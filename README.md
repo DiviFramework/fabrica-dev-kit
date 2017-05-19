@@ -1,3 +1,7 @@
+# This is a fork of Fabrica
+I forked this to try and use it for Divi Child Themes.
+Hoping it works well for me. Will be removing Timber and a few other elements of the build to use a more simple workflow.
+
 # Fabrica Dev Kit for WordPress
 A development environment and build toolkit to accelerate and optimize every stage of the WordPress development process. For custom theme (or plugin) developers, especially those with complex CMS-type requirements. Its main features are:
 

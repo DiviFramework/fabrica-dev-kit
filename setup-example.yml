@@ -2,19 +2,19 @@
 # Modify for your project, then run `./setup.rb` from this folder
 
 # Project settings
-slug: fabricaproject # lowercase letters only (also used for theme slug and PHP namespacing)
-title: Fabrica Project
+slug: divichildtheme # lowercase letters only (also used for theme slug and PHP namespacing)
+title: Divi Child Theme
 author:
-  name: Fabrica Project Author
-  email: admin@fabrica.dev
-  url: http://fabrica.dev/
+  name: Divi Child Theme Creator
+  email: admin@diviframework.dev
+  url: http://diviframework.dev/
 
 # WordPress settings
 wp:
   admin: # development site admin user credentials
-    user: fabrica
-    pass: fabrica
-    email: admin@fabrica.dev
+    user: diviframework
+    pass: diviframework
+    email: admin@diviframework.dev
   lang: en_US # dev site WP locale/language
   rewrite_structure: /%postname%/ # dev site permalink structure (can be changed later)
   # acf_pro_key: # optional (if set will preinstall Advanced Custom Fields Pro)
